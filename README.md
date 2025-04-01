@@ -16,15 +16,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot (22)](https://github.com/user-attachments/assets/47ac08a7-59fd-457d-bd5c-33bc522c6638)
+![Screenshot (24)](https://github.com/user-attachments/assets/932d8fcc-3ff6-426a-9fe5-b74fe9a0e32a)
 
-![Screenshot (23)](https://github.com/user-attachments/assets/ba3d6bc8-a504-4e3c-a6d4-3fed8517e9f1)
+![Screenshot (25)](https://github.com/user-attachments/assets/91effd0f-05f9-4e90-bc26-5545ca1ca14f)
+
 
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/PravallikaMyneni/QRCode-component)
-- Live Site URL: [Live site URL](https://pravallikamyneni.github.io/QRCode-component/)
+- Live Site URL: [Live site URL](https://pravallikamyneni.github.io/QRCode-component/qrPage.html))
 
 ## My process
 
