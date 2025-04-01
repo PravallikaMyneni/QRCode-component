@@ -1,0 +1,19 @@
+body {
+    font: 15px Outfit;
+    background-color: #D5E1EF;
+}
+.slate-900{
+    color: #1F314F
+
+}
+.slate-500{
+    color: #68778D;
+}
+.slate-300{
+    color: #D5E1EF;
+}
+
+.font-22-bold{
+    font-size: 22px;
+    font-weight: bold;
+}
